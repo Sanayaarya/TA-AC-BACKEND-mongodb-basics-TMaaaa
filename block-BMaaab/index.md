@@ -9,7 +9,7 @@ Run these shell commands in mongo shell:
 Write code to
 
 - create a database of your country name.
-Ans-use india.
+Ans-use india
 - check list of databases to see newly created database.
 Ans-show dbs.
 - check which database you are currently connected to ?
