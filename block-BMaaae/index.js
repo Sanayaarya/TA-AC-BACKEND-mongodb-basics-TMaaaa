@@ -30,4 +30,4 @@
 // db.cricket.drop()
 // db.dropDatabase()
 // dbt
-// dbt
+// dbt;
