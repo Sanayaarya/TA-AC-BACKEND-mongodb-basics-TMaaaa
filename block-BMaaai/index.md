@@ -58,7 +58,7 @@ Export `users` collection from `test` database onto `Desktop` in a file named `e
 #### Import from csv file
 
 ```
-mongoimport -d DB_NAME -c COLLECTION_NAME --type csv --file elections.csv(file location) --headerline(including header)
+mongoimport -d DB_NAME -c COLLECTION_NAME --type csv --file elections.csv(file location) --headerline(including header);
 ```
 
 ## BLOCK-writeCode
