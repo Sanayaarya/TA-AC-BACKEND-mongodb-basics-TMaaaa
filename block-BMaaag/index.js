@@ -8,4 +8,4 @@
 ] */
 // db.mountains.insertMany(mountain)
 // db.mountains.find({})
-// db.mountains.findOne({name:'a'})
+// db.mountains.findOne({name:'a'});
