@@ -1,6 +1,6 @@
 // 1.use blog
 // 2.db.createCollection('articles')
-// 3.db.articles.insertMany(blogs)
+// 3.db.articles.insertMany(blogs);
 // 4. db.COLLECTION_NAME.find()
 // 5.db.articles.find({_id: 'random1'})
 // 6.db.articles.findOne({title: 'blog2'})
